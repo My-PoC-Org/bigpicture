@@ -1,0 +1,7 @@
+# In this example, any change in this repo
+# will require approval from @j-mlaser
+* @j-mlaser
+
+# Any change inside the '/Documents' directory
+# will require approval from anyone in the organizational team docsteam
+/Documents @My-PoC-Org/docsteam
